@@ -1,0 +1,78 @@
+.wrapper{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.wrapper a {
+    text-decoration: none;
+    color: black;
+}
+.leftBottomHeader{
+    display: flex;
+    gap: 20px;
+}
+.bottomHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rightBottomHeader{
+    display: flex;
+}
+.leftTopHeader{
+    display: flex;
+    gap: 40px;
+}
+.topHeader{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    margin-bottom: 30px;
+    position: sticky;
+}
+.rightTopHeader{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+}
+.dodocoin{
+    cursor: pointer;
+
+}
+
+.login{
+    border-radius: 20px;
+    height: 32px;
+    padding: 8px 16px;
+    font-size: 14px;
+    line-height: 16px;
+    border: 0px ;
+    background-color: lightgray;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logoImg{
+    width: 35px;
+    height: 35px;
+}
+.usuals{
+    display: flex;
+    align-items: center;
+}
+.usual{
+    align-items: center;
+    border-radius: 12px;
+    display: flex;
+    flex: 0 0 auto;
+    cursor: pointer;
+    width: 260px;
+    padding: 16px;
+    margin-right: 24px;
+}
+.usual img{
+    width: 80px;
+    height: 80px;   
+}

@@ -1,0 +1,13 @@
+.slider{
+    -ms-overflow-style: none;
+    overflow: -moz-hidden-unscrollable ;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.comboImg   {
+    border: 4px orange solid;
+    border-radius: 20px;
+}
